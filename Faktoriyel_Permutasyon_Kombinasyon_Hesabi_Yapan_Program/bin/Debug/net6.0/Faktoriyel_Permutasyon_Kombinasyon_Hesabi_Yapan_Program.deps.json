@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Faktoriyel_Permutasyon_Kombinasyon_Hesabi_Yapan_Program/1.0.0": {
+        "runtime": {
+          "Faktoriyel_Permutasyon_Kombinasyon_Hesabi_Yapan_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faktoriyel_Permutasyon_Kombinasyon_Hesabi_Yapan_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
